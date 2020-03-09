@@ -1,0 +1,12 @@
+D:\Amol\AutoDownloadFile\AutoDownloadFile\bin\Debug\AutoDownloadFile.exe.config
+D:\Amol\AutoDownloadFile\AutoDownloadFile\bin\Debug\AutoDownloadFile.exe
+D:\Amol\AutoDownloadFile\AutoDownloadFile\bin\Debug\AutoDownloadFile.pdb
+D:\Amol\AutoDownloadFile\AutoDownloadFile\obj\Debug\AutoDownloadFile.csprojResolveAssemblyReference.cache
+D:\Amol\AutoDownloadFile\AutoDownloadFile\obj\Debug\AutoDownloadFile.exe
+D:\Amol\AutoDownloadFile\AutoDownloadFile\obj\Debug\AutoDownloadFile.pdb
+D:\Amol\AutoDownloadFile\AutoDownloadFile\bin\Debug\DotNetZip.dll
+D:\Amol\AutoDownloadFile\AutoDownloadFile\bin\Debug\DotNetZip.pdb
+D:\Amol\AutoDownloadFile\AutoDownloadFile\bin\Debug\DotNetZip.xml
+D:\Amol\AutoDownloadFile\Git\AutoDownloadFile\bin\Debug\AutoDownloadFile.exe.config
+D:\Amol\AutoDownloadFile\Git\AutoDownloadFile\obj\Debug\AutoDownloadFile.exe
+D:\Amol\AutoDownloadFile\Git\AutoDownloadFile\obj\Debug\AutoDownloadFile.pdb
